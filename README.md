@@ -29,4 +29,7 @@ I started by trying to use selenium to login to the USF student portal so that I
 
 I started running this program on the first day of drop-add week, and the customer was able to get her class the same day as soon as the first person dropped.
 
+<img src="https://github.com/user-attachments/assets/514216da-db07-4ead-b92e-7a571596eab8" width="1000" style="border: 5px solid black"> 
+
+
 
